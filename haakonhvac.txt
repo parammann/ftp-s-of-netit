@@ -1,0 +1,16 @@
+FTP Detail:
+Server: www.iexp.us
+User: haakftpuserhvac@iexp.us
+Pass: qD9ig$ehgK1#srrPTB
+
+DB Detail:
+Server: localhost
+DB Name: iexp99g_haakwpdb
+DB User: iexp99g_haakwpdb
+Pass: v#RICdwVF}(nDSrK,?
+
+phpMyAdmin: http://www.iexp.us/phpMyAdmin
+
+Link: http://www.iexp.us/websites/haakonhvac/wp
+User: haakwpadminonhavc
+Pass: P}{/.><?,jGdR&*$21#ExaN

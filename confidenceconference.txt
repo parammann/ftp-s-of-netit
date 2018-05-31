@@ -1,0 +1,16 @@
+FTP Detail:
+Server: iexp.us
+User: confidftp@iexp.us
+Pass: cO(T@xGt%yuv
+
+DB Detail:
+Server: localhost
+DBName: iexp99g_confidb
+DBUser: iexp99g_confidb
+Pass: 05}AcRV@[.AW
+
+Link: http://iexp.us/websites/confidenceconference/wp
+
+WP Detail:
+User: confiden_admin
+Pass: 28ZAwVaz53ZBtVBw1T

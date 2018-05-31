@@ -1,0 +1,15 @@
+
+WP-Link: http://afaithfulversion.org/wp-login.php
+User: faithadmin
+Pass: p{p}uy&^ytr%65T
+
+ftp.afaithfulversion.org
+user: afaithfu
+Pass: vAge27n0J4
+
+https://wordpress.org/plugins/easy-media-download/
+
+
+http://afaithfulversion.org/wp-content/uploads/2013/12/bible-audio-coming-soon.mp3
+https://wordpress.org/plugins/post-type-switcher/screenshots/
+https://wordpress.org/plugins/seriously-simple-podcasting/

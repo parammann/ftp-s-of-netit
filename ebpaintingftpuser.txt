@@ -1,0 +1,17 @@
+FTP Detail:
+Server: iexp.us
+User: ebpaintingftpuser@iexp.us
+Pass: UN)ml@!f(jknb43f(n
+
+DB Detail:
+Server: localhost
+DBName: iexp99g_ebpdb
+DBUser: iexp99g_ebpdb
+Pass: YHb(ml@dg65vhI)kl
+
+phpmyadmin link: http://iexp.us/phpMyAdmin
+
+Link: http://www.iexp.us/websites/ebpainting/wp
+
+WP Detail:
+User: ebpaintingwpadmin

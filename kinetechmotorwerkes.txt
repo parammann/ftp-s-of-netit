@@ -1,0 +1,26 @@
+live site
+        Please find the ftp,db and wp detail for http://kinetechmotorwerkes.com on new server which are given below:
+FTP Detail:
+Server: kinetechmotorwerkes.com
+Username: kinetechmotorftp@kinetechmotorwerkes.com
+Password: Wesf#@1fh9jk#@1d9
+
+DB Detail:
+Server:  localhost
+DBName: kinetechdb
+DBUser: kinetechdb
+Password: Ws@1f9nk@fyh09khn
+
+phpmyadmin Link: http://kinetechmotorwerkes.com/phpMyAdmin
+
+Link: http://kinetechmotorwerkes.com/wp-login.php
+
+WP Detail:
+User: admin
+Password: WSR#@!1t(jlj#1fy98
+
+Host Entry: 
+166.62.10.46	kinetechmotorwerkes.com
+166.62.10.46	www.kinetechmotorwerkes.com
+
+kinetechmw@gmail.com

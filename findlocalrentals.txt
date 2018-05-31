@@ -1,0 +1,28 @@
+Username: netit2017_webdev@findlocalrentals.net
+Password: $$Priv@te4IT**
+FTP server: ftp.findlocalrentals.net
+FTP & explicit FTPS port:  21
+
+---------------------------------------
+User: netitseo@gmail.com
+Pass: i@mUPrest*!
+-----------------------------
+https://edit-content.com/
+
+Host: 166.62.116.172
+Username: flrwebadmin_netit@findlocalrentals.com
+Password: i@mUPrest*!
+
+
+ If the content is provided to you (by Mike) and the CMS is automated to generate the META title and description (via the API), how many members and hours will this require?
+
+1tat4JnazdXPK6YoTG8izafXtHaI9KWz
+
+/public_html/reservations/inc/templates
+/public_html/reservations/inc/templates
+
+
+
+Server: ftp.reservec.com
+FTP Username: netituser@reservec.com
+FTP Password: ]mf786tQOwE4

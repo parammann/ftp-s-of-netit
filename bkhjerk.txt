@@ -1,0 +1,25 @@
+http://iexp.us/phpMyAdmin
+
+FTP Detail:
+Server:   ftp.iexp.us
+Username: bkhjerkyftp@iexp.us
+Password: fgG!2udhjR
+
+DB Detail:
+Server: localhost
+DBname: iexp99g_bkhjerkydb
+DBusername: iexp99g_bkhjerky
+Password: G@31Fj4@jk!32
+
+-------
+
+http://www.iexp.us/websites/bkhjerky/magento/admin
+
+user name : admin	
+
+password : welcome123  
+
+
+/app/design/frontend/Bkhjerky/default/template/catalog/layer
+
+.cms-home .menu .block.block-subscribe {display:none !important;}

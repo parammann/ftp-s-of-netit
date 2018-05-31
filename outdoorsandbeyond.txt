@@ -1,0 +1,18 @@
+FTP details:
+server: outdoorsandbeyond.com
+username: outdoornewftp@outdoorsandbeyond.com
+password:  vyhjbg5$##!@s213#S
+
+DB Details:
+Server: localhost
+DB name: outdoos1_sanddb
+DB username: outdoos1_sanddb
+password: WEr!@321SSAX
+
+Phpymyadmin: http://outdoorsandbeyond.com/phpMyAdmin
+
+WP link: http://outdoorsandbeyond.com/wp-login.php
+
+Wp logindetails:
+username: outdoorsandbeyond
+password: nhy$3@!2S@#s3DDXD

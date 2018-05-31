@@ -1,0 +1,21 @@
+FTP Details :
+
+Server : iexp.biz
+User : white@iexp.biz
+Pass : lCw[r0&4!@iZ
+
+DB Detail:
+
+Server :  localhost
+DBname : iepx899_whitedb
+DBUser: iepx899_whitedb
+DBpass: WItLFs7XM)(;
+
+Link: http://www.iexp.biz/websites/whiteandchampagne/wp/
+
+WP Details:
+
+User: wp_white
+Pass: 49(eE*0F8KgV5z4DJ0
+
+phpmyadmin :- http://www.iexp.biz/websites/whiteandchampagne/wp/phpmyadmin

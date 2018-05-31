@@ -1,0 +1,55 @@
+FTP Detail:
+Server: coreydemo.modenacam.com
+User: entertainmentftpuser@coreydemo.modenacam.com
+Pass: kj)9!wsq^ygh(hbh!3vs
+
+
+DB Detail:
+Server: localhost
+DBName: coreyvod_websitedb
+DBUser: coreyvod_website
+Pass: 5P7uq9Xh3~oa
+
+phpMyAdmin Link: http://coreydemo.modenacam.com/phpMyAdmin
+
+
+DB Detail:
+Server: localhost
+DBName: coreyvod_entertdb
+DBUser: coreyvod_entertd
+Pass: hfg)9uh!@rfd)hjhc!
+
+phpMyAdmin Link: http://coreydemo.modenacam.com/phpMyAdmin
+
+Link: http://coreydemo.modenacam.com/entertainment/wp/wp-admin
+
+WP Detail:
+User: entertain_admin
+Pass: 9tV6HGR4#c@H##ejd9
+
+Step 1 => http://www.awesomescreenshot.com/01c5xcm32b
+Step 2 => http://awesomescreenshot.com/0e65xcmhd4
+Step 3 => http://awesomescreenshot.com/01b5xcml25
+Step 4 => http://awesomescreenshot.com/0bd5xcmvdb
+
+card number
+5157952618543633
+
+
+Only show modal page and not show contact info.
+Create tag for each modal by admin than show all listing which modal assign tag .
+Price page change price dynamin as country and city cost of modal.
+
+
+
+0 0 * * * wget -q --delete-after http://coreydemo.modenacam.com/entertainment/wp/web_files/cron/error_reporter?key=2c1b5b9d2d4c61415a1dd0057cc74731ad7fff40
+*/5 * * * * wget -q --delete-after http://coreydemo.modenacam.com/entertainment/wp/web_files/cron/shutdown_frozen_chatrooms?key=2c1b5b9d2d4c61415a1dd0057cc74731ad7fff40
+*/5 * * * * wget -q --delete-after http://coreydemo.modenacam.com/entertainment/wp/web_files/cron/closed_frozen_watchers?key=2c1b5b9d2d4c61415a1dd0057cc74731ad7fff40
+10 1 1,16 * * wget -q --delete-after http://coreydemo.modenacam.com/entertainment/wp/web_files/cron/generate_payments?key=2c1b5b9d2d4c61415a1dd0057cc74731ad7fff40
+*/5 * * * * wget -q --delete-after http://coreydemo.modenacam.com/entertainment/wp/web_files/cron/move_watchers?key=2c1b5b9d2d4c61415a1dd0057cc74731ad7fff40
+*/2 * * * * wget -q --delete-after http://coreydemo.modenacam.com/entertainment/wp/web_files/cron/update_fms_ballance?key=2c1b5b9d2d4c61415a1dd0057cc74731ad7fff40
+*/5 * * * * wget -q --delete-after http://coreydemo.modenacam.com/entertainment/wp/web_files/cron/update_online_performers?key=2c1b5b9d2d4c61415a1dd0057cc74731ad7fff40
+0 0 * * * wget -q --delete-after http://coreydemo.modenacam.com/entertainment/wp/web_files/cron/delete_old_files?key=2c1b5b9d2d4c61415a1dd0057cc74731ad7fff40
+0 0 * * * wget -q --delete-after http://coreydemo.modenacam.com/entertainment/wp/web_files/cron/delete_old_users?key=2c1b5b9d2d4c61415a1dd0057cc74731ad7fff40
+*/10 * * * * wget -q --delete-after http://coreydemo.modenacam.com/entertainment/wp/web_files/cron/newsletters?key=2c1b5b9d2d4c61415a1dd0057cc74731ad7fff40key=816ae94818dc2e6a5418a58211b10f4c84c94e2d
+

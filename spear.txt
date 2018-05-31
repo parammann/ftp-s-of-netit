@@ -1,0 +1,22 @@
+ FTP Details :
+
+Server : old.petvetnation.com
+User : spear@old.petvetnation.com
+Pass : CC!$=[Ctbg{s
+
+DB Detail:
+
+Server :  localhost
+DBname : db_spear
+DBUser: db_spear
+DBpass: oLro,g]^7b3=
+
+Link:- http://outreachlocal.com/clients/spear
+
+
+WP Details:
+
+User: wp_spear
+Pass: r&I4OMU^FYfTGjdP!b
+
+phpmyadmin :-  http://outreachlocal.com/phpMyAdmin

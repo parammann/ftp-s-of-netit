@@ -1,0 +1,18 @@
+FTP and WP details:
+
+FTP Detail:
+Server: germanmotorandautocare.com
+User: germanmotorftpuser@germanmotorandautocare.com
+Pass: W_&HRl]=sFoT
+
+DB Detail:
+Server: localhost
+DBName: germanmotordb
+DBUser: germanmotordb
+Pass: MuT,trw^1?p.
+
+phpMyAdmin Link: http://germanmotorandautocare.com/phpMyAdmin 
+
+WP Detail:
+User: germanmotor_admin
+Pass: znPWcQQG$6KmGabhex

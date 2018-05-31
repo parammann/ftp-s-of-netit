@@ -1,0 +1,32 @@
+http://www.iexp.us/websites/cleangreenvancouver/wp
+
+FTP Details
+Server: iexp.us
+User: cleangreenftp@iexp.us
+Pass: jdh!r543@e@#F
+
+DB Details
+Server: localhost
+DB Name: iexp99g_cleandb
+DB User: iexp99g_cleandb
+Pass: P^KfQY3nPX2
+
+PhpMyAdmin: http://iexp.us/phpMyAdmin
+
+WP-Link: http://www.iexp.us/websites/cleangreenvancouver/wp/wp-login.php
+
+WP login details:
+User: cleangreen
+Pass: fd!2#65TRF4
+
+http://www.awesomescreenshot.com/0625l6e490(29/01/16)
+http://awesomescreenshot.com/0af5l6mk7b
+http://awesomescreenshot.com/06a5l6mrd6
+
+
+
+
+http://awesomescreenshot.com/01d5m69627(9/02/16)
+
+https://wordpress.org/plugins/wp-review/
+https://wordpress.org/plugins/wp-customer-reviews/screenshots/

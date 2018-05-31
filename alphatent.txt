@@ -1,0 +1,17 @@
+username: alphatent
+password: nhg#24@#%$DCV
+(10:49:44 AM) ftp.alphatentandawning.com
+UI: homedir@alphatentandawning.com
+pass: Gcxnrhwn9
+
+WP login details:
+username: alphatent
+password: nhg#24@#%$DCV
+
+Phpmyadmin link: http://alphatentandawning.com/phpMyAdmin
+
+DB details:
+server: localhost
+DB name: alphaten_wor1
+DB username: alphaten_wor1
+password: KW5TOd0f

@@ -1,0 +1,18 @@
+FTP Detail:
+Server: 138.128.184.74
+User: drneilmcftp@drneilmcleod.com
+Pass: _GY]^FQ5y2=B
+
+DB Detail:
+Serevr: localhost
+DBName: drneilm9_drneildb
+DBUser: drneilm9_drneildb
+Pass: Mws7UoJSEbO_
+
+phpMyAdmin Link: http://138.128.184.74/~drneilm9/phpMyAdmin
+
+Link: http://138.128.184.74/~drneilm9
+
+WP Detail:
+User: drneilm9
+Pass: oO1tvaDngbF9k@AC6g

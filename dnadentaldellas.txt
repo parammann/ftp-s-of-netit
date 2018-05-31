@@ -1,0 +1,16 @@
+FTP Detail:
+Server: iexp.biz
+User: dnadenftpuser@iexp.biz
+Pass: yO!AlXW6!HPO
+
+DB Detail:
+Server: localhost
+DBName: iepx899_dnaddb
+DBUser: iepx899_dnaddb
+Pass: R&HFK#_+!r2A
+
+Link: http://www.iexp.biz/websites/dnadentaldallas
+
+WP Detail:
+User: dnadentadmin
+Pass: FiGf5dbWroRd1NTZ2t

@@ -1,0 +1,63 @@
+FTP Detail:
+Server: iexp.us
+Username: lifeceleftp@iexp.us
+Password: fg68@5dhjR
+
+DB Detail:
+Server: localhost
+DBname: iexp99g_lifeceledb
+DBusername: iexp99g_lifecele
+Password: G@31Fj4@jk!32
+
+Link:  http://iexp.us/websites/lifecelebrantbc/wp
+
+WP Link: http://iexp.us/websites/lifecelebrantbc/wp/wp-login.php
+
+WP Detail:
+Username: lifecele_admin
+Password: &)NPVF53wuN!83#pte
+
+
+====================================================
+
+FTP DETAILS:-
+
+
+Please Find the detail:
+
+FTP Detail:
+Server:   138.128.172.226
+Username: lifecle9@lifecelebrantbc.com
+Password: cyh$3!32jzR
+
+DB Detail:
+Server: localhost
+DBName: lifecele9_lifecele9
+DBUser: lifecele9_lifecele9
+DBPassword: Ujdf4@3f!
+
+LINK: http://138.128.172.226/~lifecele9/
+or
+http://iexp.us/websites/lifecelebrantbc/wp/
+
+Phpmyadmin link: http://138.128.172.226/~lifecele9/phpMyAdmin
+
+Wp Detail:
+Wplink: http://138.128.172.226/~lifecele9/wp-login.php
+WpName: lifecele9_admin
+Wppassword: %(X$3t&YVqO%zmAzyR
+
+
+Final/ correct Details- 
+
+
+https://www.lifecelebrantbc.com/wp-login.php
+
+User: lifecele_admin
+Pass: @fndh!dd32R13#
+
+
+
+
+
+

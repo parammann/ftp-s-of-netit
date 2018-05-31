@@ -1,0 +1,28 @@
+Server: www.euromotiveperformance.com
+User: euroftpuser@euromotiveperformance.com
+Pass: $$X-dy5rkEK?
+-------------
+
+
+FTP Detail:
+Server: euromotiveperformance.com
+User: euroftpuser@euromotiveperformance.com
+Pass: W1bZyCtkNW;z
+
+DB Detail:
+Server: localhost
+DBName: euromoti_euromotivedb
+DBUSer: euromoti_euromot
+Pass: um25-?R18lzF
+
+phpMyAdmin Link: https://www.euromotiveperformance.com/phpMyAdmin
+
+Link: https://www.euromotiveperformance.com
+
+WP Detail:
+User: euro_admin
+Pass: QjNHJKoodp7yKpv@jG?
+
+
+euro_admin
+Pass: [3A4CF{WO-rcG

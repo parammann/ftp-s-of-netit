@@ -1,0 +1,9 @@
+Host: 66.254.70.23 
+UserID: beachwoodpools 
+Password: line-order               
+
+
+
+ ftp: 66.254.70.23
+user: beachwoodpools
+pass: beachwood3001

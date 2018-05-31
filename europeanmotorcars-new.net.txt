@@ -1,0 +1,16 @@
+FTP Details:
+Server: europeanmotorcars.net
+User: euroftpmotor
+Pass: uyhYt6@e#wd1!E
+
+DB Details:
+Server: eur1412412180032.db.11187046.hostedresource.com
+DB Name: eur1412412180032
+DB User: eur1412412180032
+Pass: u2R@qsMJXQgo
+phpMyAdmin: https://p3nlmysqladm002.secureserver.net/grid55/71
+
+WP-Link: http://europeanmotorcars.net/wp-login.php
+
+User: euroadminmotor
+Pass: EuM$%!)33C`^

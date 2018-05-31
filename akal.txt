@@ -1,0 +1,11 @@
+Server: akaloptical.db.4397679.hostedresource.com
+DBName: akaloptical
+DBUSer: akaloptical
+Pass: bfe@F547!2
+
+phpMyAdmin Link: https://p3nlmysqladm002.secureserver.net/grid55/261
+
+
+
+Username: akaloptical
+Pass : akaloptical

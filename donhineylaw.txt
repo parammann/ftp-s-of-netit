@@ -1,0 +1,19 @@
+ FTP Details:-
+
+Server:- 138.128.184.74
+Username:- dhjmn@donhineylaw.com
+Pass:- 6++?iOhY*%?K
+
+DB Details:-
+
+DBServer:- localhost
+DBName:-  dhjmn9_dhjmn
+DBUsername:- dhjmn9_dhjmn
+Pass:- M;Lb3gNkXGNW
+
+WP Details:-
+ 
+WPuser:- wp_dhjmn
+pass:- Nk(CVxwrZH)&FRCY15
+
+Link:- http://138.128.184.74/~dhjmn9/

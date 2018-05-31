@@ -1,0 +1,39 @@
+FTP Detail:
+Server: outreachlocal.com
+User: phtoftp
+Pass: gtf@D312!2
+
+DB Detail:
+Server: phtodb.db.8755318.hostedresource.com
+DBName: phtodb
+DBUser: phtodb
+Pass: gtr@!2F31!
+
+phpMyAdmin Link: https://p3nlmysqladm002.secureserver.net/grid55/251
+
+Link: http://outreachlocal.com/clients/photobooth/wp
+
+WP Detail:
+User: photobwpadmin
+Pass: mHQk)n8xvxk(GKF8hA
+
+
+
+
+
+SFTP Detail:
+Server: photoboothsupplier.com
+User: phot4061027325
+Pass: a/R7}kA6N
+
+DB Detail:
+DBUser: phot4061027325
+Pass: F7zK*4lc
+
+phpMyAdmin Link: https://a2nlmysqladm001.secureserver.net/wp/32
+
+Link: http://photoboothsupplier.com
+
+WP Detail:
+User: photoboothsupplier
+Pass: kj09^qhv#321fd@!

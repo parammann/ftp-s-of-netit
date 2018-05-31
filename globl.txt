@@ -1,0 +1,52 @@
+FTP: 66.147.244.224
+UI: homedir@alsglobal.net
+Pass: Gvdnrsksmvkn9
+
+ ftp.alsglobal.net
+UI: homedir@alsglobal.net
+Pass: Gvdnrsksmvkn9
+
+http://awesomescreenshot.com/0b25rfle21
+
+(POST)
+http://www.alsglobal.net/blog/2010/01/interpreters-in-courtroom.php
+http://www.alsglobal.net/blog/2010/01/translation-is-vital-for-life-sciences.php
+http://www.alsglobal.net/blog/2009/11/on-board.php
+http://www.alsglobal.net/blog/2009/11/man-vs-machine.php
+http://www.alsglobal.net/blog/2009/10/loose-interpretation.php
+http://www.alsglobal.net/blog/2009/09/translationwhat-does-it-all-mean.php
+
+
+(ARCHIVE)
+http://www.alsglobal.net/blog/2009_10_01_archive.php
+http://www.alsglobal.net/blog/2010_01_01_archive.php
+http://www.alsglobal.net/blog/2009_09_01_archive.php
+http://www.alsglobal.net/blog/2009_11_01_archive.php
+
+(LABELS)
+http://www.alsglobal.net/blog/labels/court%20interpreting.php
+http://www.alsglobal.net/blog/labels/interpreter.php
+http://www.alsglobal.net/blog/labels/legal%20interpreters.php
+http://www.alsglobal.net/blog/labels/certified%20translators.php
+http://www.alsglobal.net/blog/labels/life%20science%20translation.php
+http://www.alsglobal.net/blog/labels/sceince%20translation%20service.php
+http://www.alsglobal.net/blog/labels/translaiton%20services.php
+http://www.alsglobal.net/blog/labels/translating.php
+http://www.alsglobal.net/blog/labels/translation%20services.php
+http://www.alsglobal.net/blog/labels/Brazilian-Portuguese.php
+http://www.alsglobal.net/blog/labels/American%20Language%20Services.php
+http://www.alsglobal.net/blog/labels/banking.php
+http://www.alsglobal.net/blog/labels/business.php
+http://www.alsglobal.net/blog/labels/Cantonese%20Chinese.php
+http://www.alsglobal.net/blog/labels/chutocage.php
+http://www.alsglobal.net/blog/labels/consecutive.php
+http://www.alsglobal.net/blog/labels/Japanese.php
+http://www.alsglobal.net/blog/labels/Mandarin%20Chinese.php
+http://www.alsglobal.net/blog/labels/negotiation%20techniques.php
+http://www.alsglobal.net/blog/labels/Portuguese.php
+http://www.alsglobal.net/blog/labels/real%20estate.php
+http://www.alsglobal.net/blog/labels/Spanish.php
+http://www.alsglobal.net/blog/labels/medical%20interpreters.php
+http://www.alsglobal.net/blog/labels/interpreting.php
+http://www.alsglobal.net/blog/labels/multilingual%20business%20conferences.php
+http://www.alsglobal.net/blog/labels/translation.php

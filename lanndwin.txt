@@ -1,0 +1,12 @@
+GoDaddy.com
+Username: cristina@landwin.com
+Password: Century2339
+
+http://landwin.com/phpMyAdmin/
+user: landwinweb
+password: bhg24#@C$3$x3d
+
+FTP details:
+server: landwin.com
+username: landwinftp@landwin.com
+password: by!3@343@34Xq%K

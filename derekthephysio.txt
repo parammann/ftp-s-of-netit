@@ -1,0 +1,47 @@
+FTP Detail:
+Server: iexp.us
+User: derekftpuser@iexp.us
+Pass: 2{Ae_Q[J_Q@K
+
+DB Detail:
+Server: localhost
+DB Name: iexp99g_derekdb
+DB User: iexp99g_derekdb
+Pass: d8h*1+sd%azQ
+
+phpMyAdmin Link: http://iexp.us/phpMyAdmin
+
+Link: http://www.iexp.us/websites/derekthephysio/wp
+
+WP Detail:
+User: derekwpadmin
+Pass: hRBt8hGh60Xj4KR(1!
+
+
+
+
+
+Size: M
+https://www.fotolia.com/id/119710941
+https://us.fotolia.com/id/108971943
+
+
+
+FTP Detail:
+Server: derekthephysio.com
+User: derektheftpuser@derekthephysio.com
+Pass: [K[^(VyJ6pia
+
+DB Detail:
+Server: localhost
+DBName: londonph_derekthedb
+DBUser: londonph_derekth
+Pass: S?U*ThPL5)F?
+
+phpMyAdmin Link: http://derekthephysio.com/phpMyAdmin
+
+Link: http://derekthephysio.com
+
+WP Detail:
+User: derek
+Pass: Gjsmvdejgcmbdfkgy9

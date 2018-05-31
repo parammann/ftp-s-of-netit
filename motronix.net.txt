@@ -1,0 +1,19 @@
+FTP details:
+server: motronix.net
+username: motronixftp
+password: bhgf3123@4s@#S
+
+Website: http://Motronix.net/wp-admin/
+user: Admin
+Pass: Philips1
+
+DB details:
+server: outnewdb.db.8755318.hostedresource.com
+DB name: outnewdb
+DB username: outnewdb
+password: FD!2d#1fg@!dt
+
+phpmyadmin link: https://p3nlmysqladm002.secureserver.net/grid55/77
+
+
+http://motronix.net/services/audi-repair/specialty-audi-service/

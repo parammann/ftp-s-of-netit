@@ -1,0 +1,33 @@
+Medscript LLC
+FTP Detail:
+Server: rainhambiz.com 
+Username: rainhambizftp@supportus.co
+Password: Dj(1@!3hhfhj
+
+DB Detail:
+Server: localhost
+DBname: techsta_rainhambizdb
+DBusername: techsta_rainhamb
+Password: ghk@3!32jf
+
+Link: http://rainhambiz.com
+
+WP Link: http://rainhambiz.com/wp-config.php
+
+WP Detail:
+Username: rainhambiz_admin
+Password: OtqP^mkAqCmVq@)RME
+
+Moorfoot House, Meridian Gate, <br />3221 Marsh Wall, London E14 9FJ
+
+http://rainhambiz.com/services/property-owner-services/
+http://rainhambiz.com/services/self-employed-freelancers/
+http://rainhambiz.com/get-a-quote/
+
+
+
+Server: Www.quickbiztax.com
+Username: quickbiztax
+Password: (cvg@fa#!gu
+
+  

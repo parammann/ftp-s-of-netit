@@ -1,0 +1,49 @@
+FTP Detail:
+Server:   exodusremodeling.com
+Username:exodusftp@exodusremodeling.com
+Password: fgG!23#56g
+
+DB Detail:
+Server: localhost
+DBname: exodusredb
+DBusername: exodusredb
+Password: G@31dgjk!32
+
+Link:http://www.exodusremodeling.com
+
+phpmyadmin link: http://www.exodusremodeling.com/phpmyadmin/
+
+WP Link:http://www.exodusremodeling.com/wp-login.php
+
+WP Detail:
+Username: exodusre_admin
+Password: GsCDyk2(Kf3Ha$fu&6
+
+Hosting Detail:
+43.255.154.35exodusremodeling.com
+43.255.154.35www.exodusremodeling.com
+
+
+<video id="myvideo"  controls style="background:black" autoplay muted>
+  <source class="active" src="http://d3n8a8pro7vhmx.cloudfront.net/themes/5a66b8b95ee54dd3f8000000/attachments/original/1517644424/fb-video-2.mp4?1517644424" type="video/mp4" />
+  <source src="http://d3n8a8pro7vhmx.cloudfront.net/themes/5a66b8b95ee54dd3f8000000/attachments/original/1517644727/fb.mp4?1517644727" type="video/mp4" />
+</video>
+
+<script>
+  var myvid = document.getElementById('myvideo');
+
+myvid.addEventListener('ended', function(e) {
+  // get the active source and the next video source.
+  // I set it so if there's no next, it loops to the first one
+  var activesource = document.querySelector("#myvideo source.active");
+  var nextsource = document.querySelector("#myvideo source.active + source") || document.querySelector("#myvideo source:first-child");
+  
+  // deactivate current source, and activate next one
+  activesource.className = "";
+  nextsource.className = "active";
+  
+  // update the video source and play
+  myvid.src = nextsource.src;
+  myvid.play();
+});
+  </script>

@@ -1,0 +1,21 @@
+FTP Detail:
+Server: adlabonline.com
+User: adlabonlineftp@adlabonline.com
+Pass: $%tTtYTj@V6iyP
+
+Link: http://www.adlabonline.com/clients/johak/dev/index.php
+
+DB Detail:
+Server: localhost
+DBName: johak_db
+DBUser: johak_db
+Pass: 7(nhKTv-GTyb
+http://adlabonline.com/phpMyAdmin/
+
+
+
+Link: http://adlabonline.com
+
+WP Detail:
+User: adlabonadmin
+Pass: uywEL&@my1cwPv

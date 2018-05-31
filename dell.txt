@@ -1,0 +1,23 @@
+#http://www.dellsservicecenter.com/ 
+
+Cpanel login details:
+Url: http://www.dellsservicecenter.com/cpanel
+username: dellservice123
+password: bhf#@2S#@!#XWC
+
+Server: dellsservicecenter.com
+Username: dellftp@dellsservicecenter.com
+Password: bgf#23x3$#%#CV
+DB details:
+server: localhost
+DB name: delldb
+DB username: delldb
+password: vgfdw2#S@#$Z#$H
+
+Phpmyadmin link: http://www.dellsservicecenter.com/phpMyAdmin
+
+Wp link: http://www.dellsservicecenter.com/wp-login.php
+
+Wp login details:
+username: dellservice
+password: nhgb$5eTCeVB

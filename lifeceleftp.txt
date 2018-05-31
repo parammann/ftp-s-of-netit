@@ -1,0 +1,17 @@
+Server: iexp.us
+Username: lifeceleftp@iexp.us
+Password: fg68@5dhjR
+
+DB Detail:
+Server: localhost
+DBname: iexp99g_lifeceledb
+DBusername: iexp99g_lifecele
+Password: G@31Fj4@jk!32
+
+Link:  http://iexp.us/websites/lifecelebrantbc/wp
+
+WP Link: http://iexp.us/websites/lifecelebrantbc/wp/wp-login.php
+
+WP Detail:
+Username: lifecele_admin
+Password: &)NPVF53wuN!83#pte

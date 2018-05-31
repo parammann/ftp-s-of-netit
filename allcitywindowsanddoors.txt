@@ -1,0 +1,17 @@
+Server: allcitywindowsanddoors.com
+User: allcitywindowftp@allcitywindowsanddoors.com
+Pass: WC+5H7z5Ly5v
+
+DB Detail:
+Server: localhost
+DBName: allcitydb
+DBUser: allcitydb
+Pass: =@r.g()+Ekh7
+
+phpMyAdmin Link: http://allcitywindowsanddoors.com/phpMyAdmin
+
+Link: http://allcitywindowsanddoors.com
+
+WP Detail:
+User: admin_allcitywindow
+Pass: krfrnzcGwm(pCW@ECk

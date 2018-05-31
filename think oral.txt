@@ -1,0 +1,24 @@
+
+FTP Details :
+
+Server : iexp.biz
+User : think@iexp.biz
+Pass : ?n8mO!;eA#;k
+
+DB Detail:
+
+Server : localhost
+DBname : iepx899_db_think
+DBUser: iepx899_db_think
+DBpass: M{NnV{3foP-u
+
+Link:- http://www.iexp.biz/websites/think-oral-implants-and-periodontics/wp/ 
+
+
+
+WP Details:
+
+User: wp_think
+Pass: WPcpvRP$cp!)LFu3Ai
+
+phpmyadmin :- http://www.iexp.biz/phpMyAdmin

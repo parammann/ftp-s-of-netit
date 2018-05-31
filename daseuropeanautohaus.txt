@@ -1,0 +1,16 @@
+FTP Detail:
+Server: daseuropeanautohaus.com
+User: daseuroftpuser
+Pass: Yr)9^rwfq(H1t#21^3e
+
+DB Detail:
+Server: dasautohaustx.ipagemysql.com
+DBName: daseuropedb
+DBUser: daseuropedb
+Pass: YtwqEw!f94^J
+
+phpMyAdmin Link: http://daseuropeanautohaus.com/phpMyAdmin
+
+WP Detail:
+User: daseuropean_admin
+Pass: ZcDjtMEIdkqKz3k6Wb

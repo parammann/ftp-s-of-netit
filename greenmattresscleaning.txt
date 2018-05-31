@@ -1,0 +1,18 @@
+FTP Detail:
+Server: greenmattresscleaning.com
+User: greenmattftpuser@greenmattresscleaning.com
+Pass: {(W(,iVl(n+,
+
+DB Detail:
+Server: localhost
+DBName: green311_wp1
+DBUser: green311_wp1
+Pass: R#WOUnufNMJ3Qugob0@71~@9
+
+phpMyAdmin Link: http://greenmattresscleaning.com/phpMyAdmin
+
+Link: http://greenmattresscleaning.com
+
+WP Detail:
+User: greenadmin
+Pass: @0SZzPDMSER8@z

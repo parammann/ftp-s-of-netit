@@ -1,0 +1,15 @@
+FTP Details:
+server name - iexp.us
+FTP username -outftpuserdoor@iexp.us
+password - W43@#$SDFF$#a12w
+
+DB Details:
+server: localhost
+DB Name: iexp99g_sanddb
+DB User: iexp99g_sanddb
+Pass: iuFD7657NB2@!#gT
+phpMyAdmin: http://iexp.us/phpMyAdmin
+
+WP-Link: http://www.iexp.us/websites/outdoorsandbeyond/pools/wp/wp-Wp logindetails:
+username: outdoorsandbeyond
+password: nhy$3@!2S@#s3DDXD

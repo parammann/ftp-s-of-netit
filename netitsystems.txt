@@ -1,0 +1,26 @@
+server: netitsystems.com
+username: netitsystemftp
+password: bgf2#!@21FVHG
+
+DB details:
+server: netitsysdb.db.4397679.hostedresource.com
+DB name: netitsysdb
+DB username: netitsysdb
+password: vd#@@!#@@!1@SN
+
+Phpmyadmin link: https://p3nlmysqladm002.secureserver.net/grid55/189
+
+WP link: http://netitsystems.com/wp-login.php
+
+WP login details:
+username: netitsystems
+password: nHG32$DW34$e@SC
+
+
+DB Detail:
+Server: akaloptical.db.4397679.hostedresource.com
+DBName: akaloptical
+DBUSer: akaloptical
+Pass: bfe@F547!2
+
+phpMyAdmin Link: https://p3nlmysqladm002.secureserver.net/grid55/261

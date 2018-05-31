@@ -1,0 +1,25 @@
+Live Site FTP Details:- 
+Server: www.xldigitalpartners.com
+User: digitftpuserpartner@xldigitalpartners.com
+pass: cvJ8}RHR[*&M
+
+Link: http://www.xldigitalpartners.com
+=================================================
+
+FTP Detail:
+Server: iexp.us
+User: xldigitalftp@iexp.us
+Pass: w47(UNte(8-[
+
+DB Detail:
+Server: localhost
+DBName: iexp99g_xldigidb
+DBUser: iexp99g_xldigidb
+Pass: 2$9h-6pi*BR$
+
+Link: http://iexp.us/websites/xldigitalpartners 
+
+WP Detail:
+User: xldigital_admin
+Pass: XXol@h14MVzO7ZAaS@
+new Pass: Pnjflkdanfdslaf9

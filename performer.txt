@@ -1,0 +1,49 @@
+http://performancepluscars.com/wp-login.php
+
+WP Detail:
+username: performanceplus
+password: bgf2!#@$##EDB
+bgf2!#@$##EDB
+
+
+
+FTP Detail:                                    818-710-8244
+Server: performancepluscars.com
+Username: performanftp@performancepluscars.com
+Password: CE!@98kh@@dtd!42
+---------------------------
+
+
+FTP Detail:
+Server: new.performancepluscars.com
+User: newperformanceftp@performancepluscars.com
+Pass: piTcXv(T2E12
+
+DB Detail:
+Server: localhost
+DBName: newperfordb
+DBUser: newperfordb
+Pass: T)R*p4ir(~CG
+
+phpMyAdmin Link: http://performancepluscars.com/phpMyAdmin
+
+Link: http://new.performancepluscars.com
+
+WP Detail:
+User: newperformance_admin
+Pass: Ygd*cybSNr2bmcW%2a
+
+
+----------
+http://www.europlusautomotive.com/japanese-imports/
+
+WP Detail:
+User: newperformance_admin
+Pass: Ygd*cybSNr2bmcW%2a
+
+europlusautomotive.com 
+
+
+Server: europlusautomotive.com
+User: newperformanceftp@europlusautomotive.com
+Pass: WaO]S2O=XG2Q

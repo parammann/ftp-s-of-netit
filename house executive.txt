@@ -1,0 +1,20 @@
+
+FTP Details :
+Server :iexp.us
+User : house
+Pass :%hO%e[ymT}).
+
+
+DB Detail:
+
+Server :localhost
+DBname : iexp99g_houseexe
+DBUser : iexp99g_wphouse
+Pass   : 8w#fU)JnExk@
+
+Link: http://www.iexp.us/websites/houseexecutive/wp1/
+
+WP Details:
+User: wphouse
+Pass: Mwf@51RmyUI)354ni2
+

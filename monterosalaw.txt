@@ -1,0 +1,14 @@
+FTP Detail:
+Server: iexp.biz
+User: monterrftpuser@iexp.biz
+Pass: #7kYx,cN1)ZX
+
+DB Detail:
+Server: localhost
+DBName: iepx899_montedb
+DBUser: iepx899_montedb
+Pass: If2BneGp2Kz4
+
+WP Detail:
+User: monteradmin
+Pass: W`MAJ5*AG;STB8dM

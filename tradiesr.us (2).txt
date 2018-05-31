@@ -1,0 +1,15 @@
+url-
+http://tradiesr.us/elite/
+
+wordpress:-
+
+u: HumanPixel
+p: Hum@nP1x3L
+
+
+theme password-
+823f2d24-387c-4684-82a1-9f28b32acdee
+
+
+copy site-
+https://australindautomatics.com.au/wp/   

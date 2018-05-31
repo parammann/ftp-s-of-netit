@@ -1,0 +1,26 @@
+FTP details:
+server: germanautowerks.com
+username: marinhybridftp@germanautowerks.com
+password: nhg#23%43@#4XE
+
+DB details:
+server: localhost
+DB name: marindb
+DB username: marindb
+password: nu@1@#1#@@#@#@LK
+
+Phpmyadmin link: http://marinhybridshop.com/phpMyAdmin
+
+Wp link: http://marinhybridshop.com/wp-login.php
+
+WP login details:
+username: marinhybrid
+password: njh3@4#@##$%#$H
+
+
+password: njh3@4#@##$%#$H
+username: autoshop-dev
+
+Host Entries:
+107.180.12.36    marinhybridshop.com
+107.180.12.36    www.marinhybridshop.com

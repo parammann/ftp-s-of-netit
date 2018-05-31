@@ -1,0 +1,20 @@
+http://kalislaw.com
+
+FTP details:
+server: kalislaw.com
+username: kalislawftp@kalislaw.com
+password: njgb$3%32$@#C
+
+DB details:
+server: localhost
+DB name: kalis99_kalisdb
+DB username: kalis99_kalisdb
+password: mjhg#@4##!@$D
+
+Phpmyadmin link: http://kalislaw.com/phpMyAdmin
+
+WP link: http://kalislaw.com/wp-login.php
+
+WP details:
+username: kalislaw
+password: mnjhg#@4%#FF

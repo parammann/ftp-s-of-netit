@@ -1,0 +1,70 @@
+FTP Detail:
+Server: iexp.us
+User: salchichawpftp@iexp.us
+Pass: THi^JW+W4e0rJN=p
+
+DB Detail:
+Server: localhost
+DBName: iexp99g_salchidb
+DBUser: iexp99g_salchidb
+Pass: p7}igb^-?G7w
+
+phpmyadmin link: http://iexp.us/phpMyAdmin/
+
+Link: http://www.iexp.us/websites/salchicha/wp/
+
+WP Detail:
+User: admin
+Pass: Ezo*k!@93&ii1El8$&
+
+
+
+
+
+info@salchicha.ca
+
+.tslider.testimonials-slider-full blockquote { border:none !important; }
+
+
+<span class="logo"><a href="/websites/salchicha/wp/"><img src="/websites/salchicha/wp/wp-content/uploads/2016/04/logo.png" alt="" /></a></span>
+
+#840e00;
+
+border-bottom: 3px solid #000;
+
+
+
+
+
+.bnr h2 {
+    border-bottom: 3px solid #000;
+    color: #000;
+    float: left;
+    font-family: "PTSansRegular";
+    font-size: 42px;
+    padding: 20px 0 10px;
+    text-transform: uppercase;
+    width: 100%;
+}
+
+ padding: 20px 0 0;
+
+
+
+ padding: 0 25px 2px;
+
+
+
+
+
+location_details :<h4>location </h4>
+<p class="address">1065 Granville St, Vancouver,BC V6Z 1L4</p>
+<a href="https://www.google.co.in/maps/place/1065+Granville+St,+Vancouver,+BC+V6Z+1L4,+Canada/@49.2786383,-123.1264362,17z/data=!3m1!4b1!4m5!3m4!1s0x548673d5ae15ff55:0x69eeb61b31563ba0!8m2!3d49.2786348!4d-123.1242475">Get Map</a>
+<p><span>Tel:</span> +1 604 6200 306</p>
+<p class="email"><span>Email Us:</span>info@salchicha.ca</p>
+
+
+
+
+13 may http://awesomescreenshot.com/0b05v6k2f2
+http://awesomescreenshot.com/00c5v6lu79

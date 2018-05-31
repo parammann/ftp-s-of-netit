@@ -1,0 +1,37 @@
+
+
+DB details:
+server: localhost
+DB name: i583453_wp1
+DB username: i583453_wp1
+password: H&lkgjYmrG44~#9
+
+Phpmyadmin link: http://www.baydiagnostic.net/phpMyAdmin
+
+WP link: http://www.baydiagnostic.com/wp-login.php
+
+Wp login details:
+username: baydiagnostic
+password:  hbg32S32$$#%DV
+
+
+FTP Detail:
+Server:  baydiagnostic.com
+Username: baydiagftp@baydiagnostic.net
+Password: vhS!3@3@bjdg
+
+DB Detail:
+Server: localhost
+DBname: baydiagnosticdb
+DBusername: baydiagnosticdb
+Password: YHh@1!3#fdjH
+
+phpmyadmin Link: http://baydiagnostic.com/phpmyadmin/
+
+Link:  http://baydiagnostic.com/
+
+WP Link: http://baydiagnostic.com/wp-admin/
+
+WP Detail:
+Username: baydiagnostic_admin
+Password: NMU^tHR9@M#(ZtD&YW

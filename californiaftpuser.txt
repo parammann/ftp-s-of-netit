@@ -1,0 +1,17 @@
+ Please find the ftp, db and db details:
+FTP Detail:
+Server: iexp.us
+Username: californiaftpuser@iexp.us
+Pass: cwU77MO2nLPO
+
+DB Detail:
+Server: localhost
+DBName: iexp99g_califordb
+DBUser: iexp99g_califord
+Pass: @cd;5e##6m+G
+
+Link: http://www.iexp.us/websites/californiacartbuilder/wp
+
+WP Detail:
+User: california_admin
+Pass: t^!V4nHcW6qNxb$Xas

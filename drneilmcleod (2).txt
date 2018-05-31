@@ -1,0 +1,21 @@
+FTP Details :
+
+Server : iexp.biz
+User : mcleod@iexp.biz
+Pass : Xkk&_z9HhWiE
+
+DB Detail:
+
+Server : localhost
+DBname : iepx899_db_mcleod
+DBUser: iepx899_db_mcleod
+DBpass: js3B$owKI*}@
+
+Link: http://www.iexp.biz/websites/drneilmcleod/wp
+
+WP Details:
+
+User: wpdrneil
+Pass: Pjndflasjkfnda9
+
+phpmyadmin :-  http://www.iexp.biz/websites/drneilmcleod/wp/phpmyadmin

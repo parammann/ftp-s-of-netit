@@ -1,0 +1,19 @@
+FTP Details:
+Server: europeanservicecenter.com
+User: euroftpservice
+Pass: El1E43@rjh!f4E
+
+DB Details:
+Server: eur1412412291677.db.11187046.hostedresource.com
+DB Name: eur1412412291677
+DB User: eur1412412291677
+Pass: s7U@eBHqK1I96
+phpMyAdmin: https://p3nlmysqladm002.secureserver.net/grid55/105
+
+WP-Link: http://europeanservicecenter.com/wp-login.php
+
+
+User: euroadminservice
+Pass: Srv^#*4Eu`%&
+
+<span class="request-btn specials"><a href="/specials/">Specials</a></span>

@@ -1,0 +1,35 @@
+Server: iexp.us
+User: peterslawftpuser@iexp.us
+Pass: RRv5]0CrUoZP
+
+DB Detail:
+Server: localhost
+DBName: iexp99g_petedb
+DBUser: iexp99g_petedb
+Pass: BS9%^HfoT}(f
+
+Link: http://www.iexp.us/websites/peterslawfirmpa/wp
+
+WP Detail:
+User: admin
+Pass: Gsarifmcrfndcngrjgbnm9
+================================================================
+
+FTP Detail:
+Server: 138.128.184.74
+User: ptrhtvmnhkftp@peterslawfirmpa.com
+Pass: .6gyhuMgk0_f
+
+DB Detail:
+Server: localhost
+DBName: ptrhtvmnhkj9_ptrhtvmnhkdb
+DBUser: ptrhtvmnhkj9_ptrhtvmnhkdb
+Pass: GIG[syEDv,y@
+
+phpMyAdmin Link: http://138.128.184.74/~ptrhtvmnhkj9/phpMyAdmin
+
+Link: http://138.128.184.74/~ptrhtvmnhkj9
+
+WP Detail:
+User: ptrhtvmnhk_admin
+Pass: EmM4J6lVPQH!b&o6jU

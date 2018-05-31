@@ -1,0 +1,43 @@
+FTP Details:
+server: outreachlocal.com
+username: hmautoftp
+password: A3@nf!gDjf
+
+DB details:
+server:  hmautodb.db.8755318.hostedresource.com
+DB Name: hmautodb
+Username: hmautodb
+password: B@3!fh#rg13
+
+PhpMyAdmin link:
+https://p3nlmysqladm001.secureserver.net/nl41/77
+
+link: http://outreachlocal.com/clients/hmautohaus/wp
+
+wp detail:
+username: hmautohaus_admin
+Pass: BpWr3U14pFHPM8KI2k
+
+
+====================================================================================
+
+FTP Detail:
+Server:  www.hmautohausinc.com
+Username: hmautohausincf
+Password: fgG!23#2g
+
+DB Detail:
+Server: hmautousdb.db.13975512.hostedresource.com
+DBname: hmautousdb
+DBusername: hmautousdb
+Password: G@31!hfk!32
+
+Link: http://www.hmautohausinc.com
+
+phpmyadmin link:  https://p3nlmysqladm002.secureserver.net/grid55/57
+
+WP Link: http://www.hmautohausinc.com/wp-login.php
+
+WP Detail:
+Username: hmauto_admin
+Password: (hY4!PevSOGZuCO*qQ

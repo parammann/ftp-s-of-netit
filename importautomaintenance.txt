@@ -1,0 +1,16 @@
+FTP Detail:
+Server: importautomaintenance.com
+User: importautoftpuser@importautomaintenance.com
+Pass: MIAUJ1V7RE)F
+
+DB Detail:
+Server: localhost
+DBName: i2726884_wp1
+DBUser: i2726884_wp1
+Pass: I(18mk5sqAtXh@3S9Q@04^~8
+
+phpMyAdmin Link: http://importautomaintenance.com/phpMyAdmin
+
+WP Detail:
+User: importautoadmin
+Pass: s9$ZJC37bzzEFA

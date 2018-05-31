@@ -1,0 +1,22 @@
+
+phpmyadmin Link: https://a2nlmysqladm001.secureserver.net/wp/4
+DBUser: d9f73334987791
+DBName: d9f73334987791
+Pass: Ir=6hj6n
+
+
+  Please find the required details for bostonloungedecor.com:
+SFTP Detail:
+Server: bostonloungedecor.com
+User: d9f73334987791
+Pass: pd-py7|*VLYE
+
+DB Detail:
+Server: 198.71.239.69
+DBUser: d9f73334987791
+DBName: d9f73334987791
+Pass: Ir=6hj6n
+
+WP Detail:
+User: bostonloungedecor
+Pass: hgtRF)(jl^gj@dyfg

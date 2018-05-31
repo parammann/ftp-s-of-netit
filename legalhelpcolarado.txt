@@ -1,0 +1,18 @@
+FTP Detail:
+Server: iexp.biz
+User: legalheftpuser@iexp.biz
+Pass: dr2-k){c;l89
+
+DB Detail:
+Server: localhost
+DBName: iepx899_legaldb
+DBUser: iepx899_legaldb
+Pass: Xe+P$@u)jR_4
+
+phpMyAdmin Link: http://iexp.biz/phpMyAdmin
+
+Link: http://www.iexp.biz/websites/legalhelpcolorado/wp/
+
+WP Detail:
+User: legaladmin
+Pass: a09JNI^&!#HG(O0zg@

@@ -1,0 +1,14 @@
+Server: absoluteeventexperience.com
+User: absftptee
+Pass: lA1!23#deE3E
+
+DB Details:
+Server: abs1415801160458.db.6961298.hostedresource.com
+DB Name: abs1415801160458
+DB User: abs1415801160458
+Pass: v2F#4qdc1x
+phpMyAdmin: https://p3nlmysqladm002.secureserver.net/grid55/45
+
+WP-Link: http://absoluteeventexperience.com/wp-login.php
+User: absadminteev
+Pass: lQyat%$%tr@1@wqQ9:27 AM

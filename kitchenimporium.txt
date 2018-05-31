@@ -1,0 +1,16 @@
+FTP Detail:
+Server: kitchenemp.net
+User: kitftpuseremp
+Pass: dL!k@#jhh%gF7Y
+
+DB Detail:
+Server: kitch09262wpdb.db.11336525.hostedresource.com
+DB Name: kitch09262wpdb
+DB USer: kitch09262wpdb
+Pass: j%iuY6t#es@fT!7Y
+
+phpMyAdmin: https://p3nlmysqladm001.secureserver.net/nl41/65
+
+Link: http://kitchenemp.net/wp-login.php
+User: kitchenwpadmin
+Pass: dk)()0(__6YTG565Re4$^%#kJ

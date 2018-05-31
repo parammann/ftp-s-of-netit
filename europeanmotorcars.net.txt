@@ -1,0 +1,26 @@
+FTP Details:
+Server: europeanmotorcars.net
+User: euroftpmotor
+Pass: uyhYt6@e#wd1!E
+
+DB Details:
+Server: eur1412412180032.db.11187046.hostedresource.com
+DB Name: eur1412412180032
+DB User: eur1412412180032
+Pass: u2R@qsMJXQgo
+phpMyAdmin: https://p3nlmysqladm002.secureserver.net/grid55/71
+
+WP-Link: http://europeanmotorcars.net/wp-login.php
+
+User: euroadminmotor
+Pass: EuM$%!)33C`^
+
+
+dave.guttenberg@gmail.com
+ <li><label>How Can We Help</label>[select* menu-857  "SALES|dave.guttenberg@gmail.com" "SERVICE|Service@aimports.net" "Accounting and titles|accounting@aimports.net" "SELL MY CAR|davem@aimports.net,Dave@aimports.net"]</li>
+ <li><label>How Can We Help</label>[select menu-859 "CEO|sandeep@netitsystems.com" "Sales|archit@netitsystems.com" "Support|support@example.com"]</li>
+
+FTP details:
+server:  europeanmotorcars.net
+username: b4ab9306
+password: bTRFt#@!12#DV@

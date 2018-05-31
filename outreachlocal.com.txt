@@ -1,0 +1,27 @@
+ FTP Detail:
+Server: outreachlocal.com
+User: outr9531
+Pass: o2!@32ReAch12
+
+
+
+FTP Detail:
+Server: petvetnation.com
+User: outreachftp@petvetnation.com
+Pass: $tCy[WL&1e*]
+
+Link: http://outreachlocal.com
+
+
+
+
+DB Details:
+Server: outhnewdb.db.8755318.hostedresource.com
+DB: outhnewdb
+User: outhnewdb
+Pass: hGBV434!ede5T
+PHPMyAdmin: https://p3nlmysqladm002.secureserver.net/grid50/5579
+
+WP Details: http://outreachlocal.com/wp-login.php
+User: admin
+Pass: lkasjhyTRG54%$%677T

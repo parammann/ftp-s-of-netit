@@ -1,0 +1,19 @@
+
+FTP Detail:
+Server: iexp.us
+User: guinnessftpuser@iexp.us
+Pass: 66eR~6A~MKZv
+
+DB Detail:
+Server: localhost
+DBName: iexp99g_guinndb
+DBUser: iexp99g_guinndb
+Pass: M8MP%al)AgxL
+
+Link: http://www.iexp.us/websites/guinnessbusiness/wp
+
+phpmyadmin link: http://iexp.us/phpMyAdmin
+
+WP Detail:
+User: guiness_admin
+Pass: xGr9R&sg88%zPREjxv

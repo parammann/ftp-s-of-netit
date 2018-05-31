@@ -1,0 +1,19 @@
+
+FTP Detail:
+Server: outreachlocal.com
+User: autoreftp
+Pass: gf@1D12!@ln9
+
+DB Detail:
+Server: atorpadb.db.8755318.hostedresource.com
+DBName: atorpadb
+DBUser: atorpadb
+Pass: fDr@!87@df!
+
+phpMyAdmin Link: https://p3nlmysqladm002.secureserver.net/grid55/173
+
+Link: http://outreachlocal.com/clients/autorepairjacksonmi
+
+WP Detail:
+User: autorepair_admin
+Pass: yKZR%!eu2Ou%Vmu()V

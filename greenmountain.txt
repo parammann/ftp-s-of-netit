@@ -1,0 +1,20 @@
+FTP Details :
+
+Server : petvetnation.com
+User : green@petvetnation.com
+Pass : hZ+8yBwpA}^&
+
+DB Detail:
+
+Server : localhost
+DBname : green_mount_db
+DBUser: green_mount_db
+DBpass: E[ofvF=ugx6K
+
+Link: http://outreachlocal.com/clients/greenmountain/wp/
+ 
+
+WP Details:
+
+User: wpgreen
+Pass: *L0(RObM#7kEsbm*v3

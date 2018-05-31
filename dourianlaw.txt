@@ -1,0 +1,19 @@
+ FTP Details :
+
+Server : iexp.us
+User : douri@iexp.us
+Pass : )^n6yrK_-A~*
+
+DB Detail:
+
+Server : localhost 
+DBname : iexp99g_douri
+DBUser: iexp99g_douri
+DBpass: rt&K]b2X32C,
+
+Link: http://www.iexp.us/websites/dourianlaw/
+
+WP Details:
+
+User: wpdouri
+Pass: Laz(ylCxUPsY9lBQbY

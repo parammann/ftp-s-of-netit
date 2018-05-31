@@ -1,0 +1,20 @@
+Live: 
+
+FTP Detail:
+Server: loudenmotorcars.com or 04183dc.netsolhost.com
+User: ftp3335742
+Pass: uh)98#1h2@1
+
+DB Detail:
+Server: mysqlcluster28.registeredsite.com
+DBName: loudendb
+DBUser: loudendb
+Pass: uyL21rxd72fc
+
+phpMyAdmin Link: http://loudenmotorcars.com
+
+Link: http://loudenmotorcars.com
+
+WP Details:
+User: wpcars
+Pass: UIaewdmfWG7VkQx3)Y

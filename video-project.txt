@@ -1,0 +1,14 @@
+DB Detail:
+Server: videositdb.db.4397679.hostedresource.com
+DBName: videositdb
+DBUser: videositdb
+Password: WS@1fhr@1fiu@1t
+
+phpmyadmin link:  https://p3nlmysqladm001.secureserver.net/nl41/67
+
+ FTP Detail:
+Server: netitsystems.com
+Username: videositeftp
+Password: ES43HGc@32
+
+Link: http://netitsystems.com/client/videosite

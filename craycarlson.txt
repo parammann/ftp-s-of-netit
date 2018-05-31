@@ -1,0 +1,16 @@
+FTP Detail:
+Server: iexp.us
+User: craycaftpuser@iexp.us
+Pass: J4W{Iteqldxo
+
+DB Detail:
+Server: localhost
+DBName: iexp99g_craydb
+DBUser: iexp99g_craydb
+Pass: 1N9W~2{%MWH9
+
+Link: http://www.iexp.us/websites/craycarlson/wp
+
+WP Detail:
+User: admin
+Pass: gh1uw08*vle!lnvSNr

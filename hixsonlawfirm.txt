@@ -1,0 +1,19 @@
+FTP Detail:
+Server:   hixsonlawfirm.com
+Username: hixsonftp@hixsonlawfirm.com
+Password: 4vj4@3!gdhF
+
+DB Detail:
+Server: localhost
+DBName: hbnxk9_hixsondb
+DBUser: hbnxk9_hixsondb
+DBPassword: fj#2!2fdh
+
+LINK: www.hixsonlawfirm.com
+
+Phpmyadmin link: http://www.hixsonlawfirm.com/phpMyAdmin/
+
+Wp Detail:
+Wplink: http://www.hixsonlawfirm.com/wp-login.php
+User: hixson_admin
+Pass: &Qy2m*JQ)Jt1PwURI4

@@ -1,0 +1,22 @@
+
+http://mintdental.ca/blog/page/6/
+http://www.iexp.biz/websites/mintdentaladmin/blog/
+FTP Details :
+
+Server : iexp.biz
+User : mint@iexp.biz
+Pass : zaPxK0!5]8v;
+
+DB Detail:
+
+Server : localhost
+DBname : iepx899_db_mint
+DBUser: iepx899_db_mint
+DBpass: rxOMt6mz~KhN
+
+Link: http://www.iexp.biz/websites/mintdentaladmin/
+
+WP Details:
+
+User: wp_mintdental
+Pass: 0EKA09p(PExEjsN6ve

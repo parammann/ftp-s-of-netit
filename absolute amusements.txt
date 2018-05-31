@@ -1,0 +1,50 @@
+Live Detail:
+Server: absoluteamusements.com
+User: absoluteamusem
+Pass: lP7465@34!2gR
+
+DB Details
+Server: absolute34876db.db.6961298.hostedresource.com
+DB Name: absolute34876db
+DB User: absolute34876db
+DB User: iWpo!23@t847RtH
+phpMyAdmin: https://p3nlmysqladm002.secureserver.net/grid55/123
+
+Link: http://absoluteamusements.com
+
+
+wp detail
+Link: http://absoluteamusements.com/wp-admin
+wp User: outreachlocal
+Password: Abs$%^mU78*!
+
+HOST ENTRY
+184.168.205.1    absoluteamusements.com
+184.168.205.1    www.absoluteamusements.com
+
+=====================================================
+
+
+
+
+
+
+
+
+
+
+Server: outreachdb.db.8755318.hostedresource.com
+Database Name: outreachdb
+Database User: outreachdb
+Password:  UDG6!Hkv#@
+
+PHPMyAdmin: https://p3nlmysqladm001.secureserver.net/nl41/1
+
+wp link:   http://outreachlocal.com/clients/absoluteamusements/wp
+wp User: outreachlocal
+Password: FVDOuhi!3#fgyJH23gf
+
+FTP 
+Server: outreachlocal.com
+User: outhftp
+Pass: o2!@32ReAch12

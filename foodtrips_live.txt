@@ -1,0 +1,18 @@
+FTP Detail:
+Server: foodtrips.net
+User: foodtripsftp@foodtrips.net
+Pass: wy)^W8-{Wt)9
+
+DB Detail:
+Server: localhost
+DBName: fdtrip9_foodtdb
+DBUser: fdtrip9_foodtdb
+Pass: M~yud#[ytnMp97G
+
+phpMyAdmin Link: http://foodtrips.net/phpMyAdmin
+
+Link: http://foodtrips.net
+
+WP Detail:
+User: foodtr_admin
+Pass: N54Igh3ghPsfS28p!^

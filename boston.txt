@@ -1,0 +1,57 @@
+# bostonloungedecor.com
+
+SFTP Detail:
+Server: bostonloungedecor.com
+User: d9f73334987791
+Pass: jY@!@2gc!12
+
+DB Detail:
+DBUser: d9f73334987791
+Pass: Ir=6hj6n
+
+phpMyAdmin Link: https://a2nlmysqladm001.secureserver.net/wp/4
+
+Link: https://bostonloungedecor.com
+
+WP Detail:
+User: admin
+Pass: k)&n%Tgc12)(1ken
+
+
+# creativeeventservices.com
+
+SFTP Detail:
+Server: creativeeventservices.com
+User: g7db4057885143
+Pass: H.Ius0N/
+
+DB Detail:
+DBUser: g7db4057885143
+Pass: NL=3veDuzM
+
+phpMyAdmin Link: https://a2nlmysqladm001.secureserver.net/wp/63
+
+Link: https://creativeeventservices.com
+
+WP Detail:
+User: creative
+Pass: vdd)&6hv#!gc)(12
+
+# casinoeventservices.com
+
+SFTP Detail:
+Server: casinoeventservices.com
+User: o6794052581275
+Pass: j#2mA.LBIEu
+
+DB Detail:
+DBUser: o6794052581275
+Pass: r@c3VAjRTeq6
+
+phpMyAdmin Link: https://n1nlsmysqladm01.secureserver.net/n3wp/44
+
+Link: https://casinoeventservices.com
+
+WP Detail:
+User: casinoeventservices
+Pass:  nb)(^$#1fx)(0299

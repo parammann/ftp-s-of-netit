@@ -1,0 +1,24 @@
+FTP Detail:
+Server: Www.quickbiztax.com
+Username: quickbiztax@supportus.co
+Password: (cvg@fa#!gu
+
+DB Detail:
+Server: localhost
+DBName: techsta_quickbiztaxdb
+DBUser: techsta_quickbiz
+DBPassword: Bf#df@1!hm
+
+LINK: Www.quickbiztax.com
+
+Phpmyadmin link: www.quickbiztax.com/phpMyAdmin/
+
+Wp Detail:
+
+Wplink: Www.quickbiztax.com/wp-login.php
+WpName: quickbiztax_admin
+Wppassword: 2bmD(UdFWM5soGL(6x
+
+Host Entries:
+198.57.148.121 quickbiztax.com
+198.57.148.121 www.quickbiztax.com

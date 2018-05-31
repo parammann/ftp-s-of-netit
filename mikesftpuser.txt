@@ -1,0 +1,20 @@
+
+
+
+Server: mikesforeigncar.com
+User: mikesforeign2
+Pass: hgr#2tdR!2
+
+DB Detail:
+Server: mikesdb.db.3972357.hostedresource.com
+DBName: mikesdb
+DBUser: mikesdb
+Pass: hIr#2td!s8
+
+phpMyAdmin Link: https://p3nlmysqladm002.secureserver.net/grid55/103
+
+Link: http://mikesforeigncar.com
+
+WP Detail:
+User: mikes
+Pass: FmYkgmkDBf8jXCCgou

@@ -1,0 +1,22 @@
+
+#europeanmotorcars.net
+
+FTP details:
+server:  europeanmotorcars.net
+username: b4ab9306
+password: bTRFt#@!12#DV@
+
+#europeanservicecenter.com
+
+FTP details:
+server: europeanservicecenter.com
+username: europeaserftp
+password: bg#21@#x@s2Q!
+
+
+#europeanmotorcarsalpharetta.com
+
+FTP details:
+server: europeanmotorcarsalpharetta.com
+username: europmosalftp
+password:  vtf#1x#@#XCNM!

@@ -1,0 +1,1 @@
+<a href="#" data-toggle="tooltip" title="Amount of tax free payout your loved ones will receive"><img src="/wp-content/uploads/2015/03/Q-icon.png" alt=""/ ></a>

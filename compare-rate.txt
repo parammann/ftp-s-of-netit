@@ -1,0 +1,20 @@
+FTP Details
+Server: compare-rates.ca
+User: compare-rates@dr-photography-studio.com
+Pass: lOqw34WE2@1^5E
+
+
+
+URL : http://compare-rates.ca
+Admin URL : http://compare-rates.ca/wp-admin/
+Admin Username : zoranrnjak@hotmail.com
+Admin Password : Asdfdsa#1
+
+
+MySQL Database : drphot7_wp462
+MySQL DB User : drphot7_wp462
+MySQL DB Host : localhost
+MySQL DB Password : I-S@Z949P4
+phpMyAdmin: http://compare-rates.ca/phpMyAdmin
+
+  <a href="#" data-toggle="tooltip" title="Select the type of insurance that you would like a qoute for."><img src="/wp-content/uploads/2015/03/Q-icon.png" alt=""/ ></a>

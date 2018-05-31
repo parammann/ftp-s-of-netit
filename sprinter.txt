@@ -1,0 +1,13 @@
+WP link: http://sprinterstore.com/wp-login.php
+
+WP login details:
+username: sprinterstore
+passowrd: nhuy^%%#C#@@#XXCC$L
+FTP details:
+server: sprinterstore.com
+username: sprinterstore
+password: y(7BQlMz7U
+
+
+https://wordpress.org/plugins/globe-gateway-e4/changelog/
+https://wordpress.org/plugins/fd-payments-for-woo/screenshots/

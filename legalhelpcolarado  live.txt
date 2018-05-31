@@ -1,0 +1,19 @@
+
+FTP Detail:
+Server: 138.128.184.74
+User: dcvgjbftpuser@divorcehelpcolorado.com
+Pass: ?YCc4g{++Ms4
+
+DB Detail:
+Server: localhost
+DBName: dcvgjbnn9_dcvgjdb
+DBUser: dcvgjbnn9_dcvgjdb
+Pass: uB$*8c[v][;L
+
+phpMyAdmin Link: http://138.128.184.74/~dcvgjbnn9/phpMyAdmin
+
+Link: http://138.128.184.74/~dcvgjbnn9
+
+WP Detail:
+User: dcvgjadmin
+Pass: BDnXZdvGK5S(DgsoMh

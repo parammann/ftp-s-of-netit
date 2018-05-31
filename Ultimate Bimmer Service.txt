@@ -1,0 +1,49 @@
+FTP Detail:
+Server: outreachlocal.com
+User: ultiftpuser
+Pass: trEd@wqd43qws1
+
+DB Detail:
+Server: ultimatdb.db.8755318.hostedresource.com
+DBName: ultimatdb
+DBUser: ultimatdb
+Pass: ger32@1wqd8Ew
+
+phpMyAdmin Link: https://p3nlmysqladm002.secureserver.net/grid55/15
+
+Link: http://outreachlocal.com/clients/ultimatebimmerservice/wp
+
+WP Detail:
+User: ultimate_admin
+Pass: 7U2z2kxxlbq39oauxq
+-----------------------------------------------
+LIVE
+-----------------------------------------------------
+The required permissions has been given to the given files:
+/.htaccess
+/index.php
+/wp-config.php
+/wp-includes/load.php
+
+And updated ftp detail is given below:
+FTP Detail:
+Server: ultimatebimmerservice.com
+FTP User: ultimateftpbimmer@ultimatebimmerservice.com
+Pass: RD!@9JB^ed@1rd9jn@1gg
+
+
+------------------------------------------------------------------------
+
+
+DB Details:
+Server: localhost
+DB Name: bimmerdb
+DB User: bimmerdb
+Pass: dgh!7667Ytgt@wewqS
+phpMyAdmin: http://ultimatebimmerservice.com/phpMyAdmin
+
+
+http://www.ultimatebimmerservice.com/wp-admin/
+
+Username: ultimatebimmer
+Pass: UbS&*^11%uL$

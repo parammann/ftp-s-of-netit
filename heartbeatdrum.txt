@@ -1,0 +1,9 @@
+ www.heartdrumbeat.com/wp-admin/
+UI: admindrum 
+Pass: Adminheartdrumbeat79
+
+==============================
+FTP Details
+Server: heartdrumbeat.com
+User: heartdrumftpnew@heartdrumbeat.com
+Pass: LFmK&Lw=Hh5&!z,l%O

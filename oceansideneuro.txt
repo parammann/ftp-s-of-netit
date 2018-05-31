@@ -1,0 +1,19 @@
+FTP Detail:
+Server: iexp.biz
+User: oceansideftpuser@iexp.biz
+Pass: ujpx[aC(=_!Q
+
+DB Detail:
+Server: localhost
+DBName: iepx899_oceandb
+DBUser: iepx899_oceandb
+Pass: 7]u6Z57Um(WG
+
+phpMyAdmin Link: http://www.iexp.biz/phpMyAdmin
+
+Link: http://www.iexp.biz/websites/oceansideneuro/wp/
+
+WP Detail:
+User: oceanadmin
+Pass: F$G2Y6ydTq#@*ublxp
+

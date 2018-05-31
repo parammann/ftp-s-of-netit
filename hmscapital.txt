@@ -1,0 +1,16 @@
+FTP Details
+Server: hmscapital.com
+User: hmscapit@hmscapital.com
+Pass: 3oy{MsbeM9aj
+
+DB Details
+Server: localhost
+DB name: hmscapit_wp
+DB User: hmscapit_wp
+Pass: imQbLUC5m3Uw
+
+Link: https://hmscapital.com/wp-login.php
+
+WP Details
+User: hmsadmin
+Pass: h^76%43ed9iLbvf#wS

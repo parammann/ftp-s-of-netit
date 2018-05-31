@@ -1,0 +1,22 @@
+
+FTP Details :
+
+Server : iexp.biz
+User : drasch@iexp.biz
+Pass : w2opS)@YDmFh
+
+DB Detail:
+
+Server : localhost
+DBname : iepx899_draschdb
+DBUser: iepx899_draschdb
+DBpass: !(c3yVue$ub9
+
+Link: http://www.iexp.biz/websites/drascherman/
+
+WP Details:
+
+User: wpdrasch
+Pass: 6j4yc!uZDfa6JBG)Qe
+
+phpmyadmin :- http://www.iexp.biz/websites/drascherman/phpmyadmin

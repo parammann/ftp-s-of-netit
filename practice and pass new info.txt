@@ -1,0 +1,22 @@
+FTP Details :
+
+Server : practiceandpass.com
+User : practice@practiceandpass.com
+Pass : dQF91eASFd4!
+
+DB Detail:
+
+Server : localhost
+DBname :i4486682_wp1 
+DBUser: i4486682_wp1
+DBpass: Q.ZdyOsO7XIaSwhJrGK95
+
+Link:- http://practiceandpass.com
+
+
+WP Details:
+
+User: wppractice
+Pass: hgbd%676t*knD
+
+phpmyadmin : http://practiceandpass.com/phpmyadmin

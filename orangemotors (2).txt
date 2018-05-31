@@ -1,0 +1,24 @@
+ https://www.orangemotors.net
+
+
+
+ftp.orangemotors.net 
+to update the files with previous username and password
+u/n  omwebmaster    (shows last login on 2/1/2017)
+p/w: Om@2017  (O is upper case)
+
+
+
+DB Detail:
+Server: orangemotors.accountsupportmysql.com
+DBName: orangemotodb
+DBUser: orangemotodb
+Pass: hgvj)9312hf@
+
+phpMyAdmin Link: http://www.orangemotors.net/phpMyAdmin
+
+Link: http://www.orangemotors.net
+
+WP Detail:
+User: wp_orange
+Pass: O3DJG1eK$z0i@Ak*aW

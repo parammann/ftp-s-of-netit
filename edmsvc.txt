@@ -1,0 +1,18 @@
+FTP Details:
+Server: edmsvc.com
+FTP User: edmftpusrsvc.edmsvc.com
+Pass: s$tr@at8&&uYhgV
+
+DB Details:
+Server: sql5c45a.carrierzone.com
+DB Name: aptera_edmsvc_com
+DB User: edmsvccom9783980
+
+Pass: qpal_09(043!2@dMz
+phpMyAdmin: http://edmsvc.com/phpMyAdmin
+User: phpadmin
+Pass: Qlsk7655GTfdR
+
+Link: http://edmsvc.com/wp-login.php
+User: edmadminserv
+Pass: lsLS1!2w@eR5rT

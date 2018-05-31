@@ -1,0 +1,19 @@
+
+FTP Detail:
+Server: lowry.legal
+User: lowryftpuser@lowry.legal
+Pass: zCpxZvNndhaU
+
+DB Detail:
+Serevr: localhost
+DBName: lfrtunj9_lowrydb
+DBUser: lfrtunj9_lowrydb 
+Pass: Mws7UoJSEbO_
+
+phpMyAdmin Link: https://lowry.legal/phpMyAdmin
+
+Link: https://lowry.legal
+
+WP Detail:
+User: adminlowry
+Pass: OHFr&pb5XAvsRCay&H

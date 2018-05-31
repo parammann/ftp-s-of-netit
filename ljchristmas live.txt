@@ -1,0 +1,18 @@
+FTP Detail:
+Server: 138.128.184.74
+User: ljchrftpyuser@ljchristmasmanor.com
+Pass: )Aq)Yb0r5Ow1
+
+DB Detail:
+Server: localhost
+DBName: ljvghbh9_ljcdb
+DBUser: ljvghbh9_ljcdb
+Pass: Qrv;)6,r&aRY
+
+phpMyAdmin Link: http://138.128.184.74/~ljvghbh9/phpMyAdmin
+
+Link: http://138.128.184.74/~ljvghbh9
+
+WP Detail:
+User: ljcadmin
+Pass: iw*nIWfz#tBu3$cFo6

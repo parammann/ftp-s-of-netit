@@ -1,0 +1,20 @@
+FTP Detail:
+Server: californiacartbuilder.com
+User: californiaftpuser@californiacartbuilder.com
+Pass: ?!}k;JgsfS#%
+
+DB Detail:
+Server: localhost
+DBName: elma_califordb
+DBUser: elma_califordb
+Pass: ,-!MsqmRCzeX
+
+phpMyAdmin Link: http://californiacartbuilder.com/phpMyAdmin
+
+WP Detail:
+User: california_admin
+Pass: ccx6gXtdjqS8KDrnyy
+
+Host Entry:
+192.185.16.202	californiacartbuilder.com
+192.185.16.202	www.californiacartbuilder.com

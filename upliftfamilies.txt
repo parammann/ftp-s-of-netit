@@ -1,0 +1,11 @@
+ user: developer2@outreachlocal.com
+pass: Developer22014
+
+http://awesomescreenshot.com/0e25wvdg13
+
+<h2 class="headline">EVENTS TO SUPPORT AND UPLIFT FAMILIES</h2>
+<div class="kid-logo">
+<p><a href="http://saltlakecity.kidsoutandabout.com/" target="_blank"><img src="kids-logo.png" alt="kids-logo.png" /></a></p>
+<p>&nbsp;</p>
+<p><span><a href="http://saltlakecity.kidsoutandabout.com/" target="_blank">CLICK TO SEE UPCOMING EVENTS</a></span></p>
+</div>

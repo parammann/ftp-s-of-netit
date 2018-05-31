@@ -1,0 +1,19 @@
+Server:- 138.128.184.74
+Username:- crdhgn@craycarlson.com
+Pass:- xG0Wi#E9u(41
+
+DB Details:-
+
+DBServer:- localhost
+DBName:- crdhgn9_crdhgn
+DBUsername:- crdhgn9_crdhgn
+Pass:- GQ2uC1?Qa{=Z
+
+WP Details:-
+ 
+WPuser:- wp_crdhgn
+pass:- od^Byb@Esutdmj#z0^
+
+Link:- http://138.128.184.74/~crdhgn9/
+
+phpmyadmin:-  http://138.128.184.74/~crdhgn9/phpmyadmin

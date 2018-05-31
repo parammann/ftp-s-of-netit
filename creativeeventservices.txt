@@ -1,0 +1,25 @@
+FTP Detail:
+Server: creativeeventservices.com
+User: creativeftpuse
+Pass: hfgu@43Wsq!ref
+
+DB Detail:
+Server: newcreatedb.db.8148971.hostedresource.com
+DBName: newcreatedb
+DBUser: newcreatedb
+Pass: Ed!@dt!2sr@!
+
+phpmyadmin Link: https://p3nlmysqladm001.secureserver.net/nl41/59
+
+WP Detail:
+User: creative
+Pass: hgt)(jo@1knckhdiyt
+
+
+
+*FTP Detail:*
+Server: dfwaimescollision.com
+Username: dfwaimesftpuser@dfwaimescollision.com
+Password: RD@fh9njml,n@@!
+
+

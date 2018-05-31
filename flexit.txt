@@ -1,0 +1,18 @@
+FTP Detail:
+Server: outreachlocal.com
+User: flexit
+Pass: kdb#2gcE2
+
+DB Detail:
+Server: flexitdb.db.8755318.hostedresource.com
+DBName: flexitdb
+DBUser: flexitdb
+Pass: kj@!gxD21
+
+phpMyAdmin Link: https://p3nlmysqladm002.secureserver.net/grid55/173
+
+Link: http://outreachlocal.com/clients/flexit
+
+WP Detail:
+User: flexit_admin
+Pass: tBQIQ7I%qyV0G)KPAm

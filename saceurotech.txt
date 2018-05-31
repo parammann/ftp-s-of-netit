@@ -1,0 +1,30 @@
+FTP Detail:
+Serevr: saceurotech.com
+User: saceurotechftpuser@saceurotech.com
+Pass: 'b3%q|jAc\#>[n-
+
+WP:
+eurotechauto
+Pass: frdk67WI
+=============
+
+
+
+---------
+Server :securacom.net 
+User : securacom@securacom.net
+Pass : i3HS3*y8FqNv
+
+
+DB Detail:
+
+Server : localhost
+DBname : dbsecur
+DBUser: dbsecur
+DBpass: u5Q!A^#KF9HT,IuDo[
+
+Link:   http://securacom.net/
+
+WP Details:
+User: wpsecura
+Pass: ncvEYLKumYm!2iWHk8

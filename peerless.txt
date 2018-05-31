@@ -1,0 +1,17 @@
+ Server : iexp.biz
+User : peerle@iexp.biz
+Pass : e}*}S(fCVyh1
+
+DB Detail:
+
+Server : localhost
+DBname : iepx899_db_peerless
+DBUser: iepx899_db_peerless
+DBpass: V~akdA+N(89x
+
+Link: http://www.iexp.biz/websites/peerlessengineering/
+
+WP Details:
+
+User: wp_peerl
+Pass: GmmylbpCUVGmCTDer5

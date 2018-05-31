@@ -1,0 +1,20 @@
+FTP Detail:
+Server: outreachlocal.com
+User: mbfprintftp
+Pass: trEd@wqd43qws1
+
+DB Detail:
+Server: mbfprintdb.db.8755318.hostedresource.com
+DBName: mbfprintdb
+DBUser: mbfprintdb
+Pass: ger32@1wqd8Ew
+
+phpMyAdmin Link: https://p3nlmysqladm002.secureserver.net/grid55/31
+
+Link: http://outreachlocal.com/clients/mbfprinting/wp/
+
+WP Detail:
+User: mbfprintdb_admin
+Pass: XavkNy4RD$etMo(lR@
+
+tyler.morgan@mbfprint.com

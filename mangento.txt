@@ -1,0 +1,7 @@
+Your Store Address:
+    http://localhost/Magento/ 
+Magento Admin Address:
+    http://localhost/Magento/admin_dya8lc/ 
+
+admin
+welcome123

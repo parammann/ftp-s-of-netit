@@ -1,0 +1,23 @@
+Please find the below details:-
+
+FTP Details:-
+
+Server:- 138.128.184.74
+Username:- mrgh@maverickraylaw.com
+Pass:- K!dw)}V}p801
+
+DB Details:-
+
+DBServer:- localhost
+DBName:- mrghcnb9_db_mrgh
+DBUsername:- mrghcnb9_db_mrgh
+Pass:- PVnj)+NRhs^=
+
+WP Details:-
+
+WPuser:- wp_mrgh
+pass:- bE8RhsUG$CUcBxW%N2
+
+Link:- http://138.128.184.74/~mrghcnb9/
+
+phpmyadmin:- http://138.128.184.74/~mrghcnb9/phpmyadmin

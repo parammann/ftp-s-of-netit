@@ -1,0 +1,16 @@
+FTP Detail:
+Server: iexp.biz
+User: thinkdentftpuser@iexp.biz
+Pass: KNygu]-1[p;s
+
+DB Detail:
+Server: localhost
+DBName: iepx899_thinkdendb
+DBUser: iepx899_thinkdendb
+Pass: !8^9f+C=OwRS
+
+Link: http://iexp.biz/websites/thinkdentallearninginstitute/wp
+
+WP Detail:
+User: thinkdenwpuser
+Pass: 1uQuNr)c1^WSc!uIFJ

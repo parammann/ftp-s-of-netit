@@ -1,0 +1,44 @@
+FTP Detail:
+Server: 0404798.netsolhost.com
+User: ftp3188521
+Pass: jhy12!@wW
+
+DB Detail:
+Server: mysqlcluster22
+DBName: autobdb
+DBUser: autobdb
+Pass: kyhlk09W12
+
+phpMyAdmin Link: https://mysqlcluster22.registeredsite.com
+
+Link: http://www.autobahnautomotive.com
+
+WP Detail:
+User: autobahadmin
+Pass: (cG8@Pq8cK5m^hq$6J
+
+
+
+
+
+
+
+
+FTP Detail:
+Server: outreachlocal.com
+User: autobftp
+Pass: hH32!2@1gc
+
+DB Detail:
+Server: autobdb.db.8755318.hostedresource.com
+DBName: autobdb
+DBUser: autobdb
+Pass: hg@g1N12@!
+
+phpMyAdmin Link: https://p3nlmysqladm002.secureserver.net/grid55/269
+
+Link: http://outreachlocal.com/clients/autobahnautomotive/wp
+
+WP Detail:
+User: autob_admin
+Pass: zbK&4GUuAKbuv5cVsK

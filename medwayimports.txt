@@ -1,0 +1,16 @@
+FTP Detail:
+Server: outreachlocal.com
+User: medwayimftp@old.petvetnation.com
+Pass: C}?kEJ4h0sD9
+
+DB Detail:
+Server: localhost
+DBName: medwayimdb
+DBUser: medwayimdb
+Pass: %_Tz)wK9Ex_!
+
+Link: http://outreachlocal.com/clients/medwayimports/wp
+
+WP Detail:
+User: medwayimadmin
+Pass: FRqcSWeV$8LN)hMt55

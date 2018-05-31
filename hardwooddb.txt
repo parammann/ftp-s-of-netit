@@ -1,0 +1,52 @@
+FTP Detail:
+Server: outreachlocal.com
+User: hardwooderiwp
+Pass: Bvtf@2vfdcgh
+
+DB Detail:
+Server: hardwooddb.db.8755318.hostedresource.com
+DBName: hardwooddb
+DBUser: hardwooddb
+Pass: bv9yGfdd!h9jhj
+
+phpmyadmin Link: https://p3nlmysqladm001.secureserver.net/nl41/69
+
+Link: http://outreachlocal.com/clients/Hardwooderia/wp
+
+WP Detail:
+User: admin
+Pass: mfmvN52*TFb0y(TlUv
+----------------------
+
+live
+
+
+FTP Details:
+Server: hardwooderia.com
+User: hardftpwooduse
+Pass: lK8!d@rk#gT8
+
+DB Details:
+Server: hd2015new.db.9569524.hostedresource.com
+DB Name: hd2015new
+DB User: hd2015new
+Pass: Mel!k2015
+phpMyAdmin: https://p3nlmysqladm002.secureserver.net/grid55/193/index.php
+
+Link: http://hardwooderia.com/wp-login.php
+User: admin_hw
+Pass: ksj!29J4e&^2F*fD2!F
+
+
+FTP Detail:
+Server: hardwooderia.com
+Username: hardftpwooduse
+Password: Gh@1kH3!od@!kj
+
+WP Detail:
+User: admin_hw
+Pass: he21f)(nk^hv11)(_lm1!^q
+
+
+
+above-the-fold-optimization

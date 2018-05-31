@@ -1,0 +1,15 @@
+FTP Details
+Server: iexp.us
+User: dynamicftprentals@iexp.us
+Pass: uQpeo_!#!54907431FrK
+
+DB Details
+Server: localhost
+DB Name: iexp99g_dynrntdb
+DB User: iexp99g_dynrntdb
+Pass: jQefrB843642!23$@21F
+phpMyAdmin: http://iexp.us/phpMyAdmin
+
+Link: http://www.iexp.us/websites/dynamic-rentals/wp
+User: dynamicwpadminrentals
+Pass: iQk(&^%$%9765%fgHFD

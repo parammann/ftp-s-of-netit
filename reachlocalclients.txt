@@ -1,0 +1,34 @@
+#www.iexp.us/websites/reachlocalclients/
+
+FTP details:
+server: iexp.us
+username: reachlocalftp@iexp.us
+password: njg43232#3w$x$xm
+
+DB details:
+server: localhost
+DB name: iexp99g_reachdb
+DB username: iexp99g_reachdb
+password: ctgc#21@@12Z1zx
+
+Phpmyadmin link: http://iexp.us/phpMyAdmin
+
+WP link: http://iexp.us/websites/reachlocalclients/wp-login.php
+------------LIVE---------------
+server: reachlocalclients.com
+username: reachlocalftp@reachlocalclients.com
+password: mjh#@343@4d%%C
+
+DB details:
+server: localhost
+DB name: rchlncg9_reachdb
+DB username: rchlncg9_reachdb
+password: njhgf32#$#2G
+
+Phpmyadmin link: http://reachlocalclients.com/phpMyAdmin
+
+WP link: http://reachlocalclients.com/wp-login.php
+
+WP login details:
+username: reachlocalclients
+password: njg3%#@4#%DF$%V

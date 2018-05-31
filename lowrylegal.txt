@@ -1,0 +1,23 @@
+Please find the below details with updated url  http://iexp.biz/websites/lowrylegal/wp/
+
+FTP Details:-
+
+Server:- iexp.biz
+Username:-  lowry@iexp.biz
+Pass:- *^[Blun]!PO}
+
+
+DB Details:-
+
+DBName:- iepx899_db_lowry
+DBUsername:- iepx899_db_lowry
+Pass:- !5*RmzLGy$4,
+
+WP Details:-
+
+WPuser:- wp_lowrylegal
+pass:- tExsbbrBOm4#Q4bi!p
+
+Link:-  http://iexp.biz/websites/lowrylegal/wp/
+
+phpmyadmin:- http://iexp.biz/phpMyAdmin

@@ -1,0 +1,33 @@
+mughlaicuisineny.com
+
+FTP details:
+server: mughlaicuisineny.com
+username: mughlaicftp@mughlaicuisineny.com
+password: nkjg32#@342#$@$C
+
+DB details:
+server: localhost
+DB name: mughladb
+DB username: mughladb
+password: njg@!2$@#SS@!S
+
+Phpmyadmin Link: http://mughlaicuisineny.com/phpMyAdmin
+
+WP Link: http://mughlaicuisineny.com/wp-login.php
+
+WP details:
+username: mughlaicuisineny
+password: niyh#23$@##$#CN
+----
+
+sandeep_matharro
+welcome1044
+--------------------
+sandeep singh
+welcome!@#
+
+
+
+nstagram:
+mughlaicuisine
+Password: Rajkumar1

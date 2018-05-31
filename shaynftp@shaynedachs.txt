@@ -1,0 +1,17 @@
+Server: 138.128.184.74
+User: shaynftp@shaynedachs.com
+Pass: %]X2c=r;+C]i
+
+DB Detail:
+Server: localhost
+DBName: shaynedac9_shaydb
+DBUser: shaynedac9_shaydb
+Pass: -yR.EEaZV~Cz
+
+phpMyAdmin Link: http://138.128.184.74/~shaynedac9/phpMyAdmin
+
+Link: http://138.128.184.74/~shaynedac9
+
+WP Detail:
+User: shaynedaadmin
+Pass: NZRp&JuLU*pTPx2GK(

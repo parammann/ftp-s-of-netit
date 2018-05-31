@@ -1,0 +1,15 @@
+FTP Details:
+Server: jyotsacademy.co
+User: jyotftpaca@jyotsacademy.co
+Pass: M0kmj&dDEDe
+
+DB Details:
+Server: localhost
+DB Name: i548948_wp1
+DB User: i548948_wp1
+Pass: M(IWxJTGYp64]&1
+phpMyAdmin: https://jyotsacademy.co/phpMyAdmin
+
+WP-Link: http://jyotsacademy.co/wp-login.php
+User: jyotadminwp
+Pass: qQ23$#dFg9nH

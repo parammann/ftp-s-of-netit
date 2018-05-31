@@ -1,0 +1,7 @@
+ ftp.orangemotors.net 
+
+to update the files with previous username and password
+
+u/n  omwebmaster    (shows last login on 2/1/2017)
+
+p/w: Om@2017  (O is upper case)

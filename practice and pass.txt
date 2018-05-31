@@ -1,0 +1,19 @@
+DB Detail:
+Server: localhost
+DBName: practicdb
+DBUser: practicdb
+Pass: 2+(3A7TasT)9
+
+phpMyAdmin Link: http://adlabonline.com/phpMyAdmin
+
+Link: http://adlabonline.com/clients/practice-pass
+
+WP Detail:
+User: practicadmin
+Pass: $wlu)E6HLSx1lzEa&t
+
+
+
+Server: adlabonline.com
+User: adlabonlineftp@adlabonline.com
+Pass: $%tTtYTj@V6iyP

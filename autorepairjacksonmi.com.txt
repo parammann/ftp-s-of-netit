@@ -1,0 +1,19 @@
+FTP Details:
+Server: autorepairjacksonmi.com
+User: eliteftpbuyers@autorepairjacksonmi.com
+Pass: jh!efhr34RhgR
+
+DB Details:
+Server: localhost
+DB Name: i467927_wp1
+DB User: i467927_wp1
+Pass: Z(G*fXL3db63##2
+phpMyAdmin: http://autorepairjacksonmi.com/phpMyAdmin
+
+WP-Link: http://autorepairjacksonmi.com/wp-login.php
+User: autoadminjackson
+Pass: m@_urY67R!w#egT76R
+
+HOST ENTRY
+23.229.163.168    autorepairjacksonmi.com
+23.229.163.168    www.autorepairjacksonmi.com

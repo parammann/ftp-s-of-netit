@@ -1,0 +1,20 @@
+https://www.star-motors.com/
+
+
+ SFTP Details
+Server: star-motors.com
+User: b06f41490688255
+Pass: kR8{KDl(YMc
+Port: 22
+
+DB Details
+Server: b06f41490688255.db.41490688.5f8.hostedresource.net:3307
+DB Name: b06f41490688255
+DB User: b06f41490688255
+Pass: U16pj-aAz
+
+phpMyAdmin: https://a2nlmysqladm001.secureserver.net/wp/58
+
+Link: https://www.star-motors.com/
+WP-Admin: wpstaradmin
+Pass: K0izuEa)uEcqi5N36oOrf4M7

@@ -1,0 +1,22 @@
+FTP Detail:
+Server: outreachlocal.com
+User: energyg
+Pass: reU@!32G
+
+DB Detail:
+Server: energygdb.db.8755318.hostedresource.com
+DBName: energygdb
+DBUser: energygdb
+Pass: bK2!@fx!@7
+
+phpMyAdmin Link: https://p3nlmysqladm002.secureserver.net/grid55/35
+
+Link: http://outreachlocal.com/clients/energygreenbuilders
+
+WP Detail:
+User: energyg_admin
+Pass: 7gBtOv4(N(Qjh(xn)y
+
+
+working  on landing pages in
+http://outreachlocal.com/clients/energygreenbuilders/wp/

@@ -1,0 +1,20 @@
+Server : 91.208.99.4
+User : nefuturesutc@nefuturesutc.co.uk
+Pass : 5MKVVAMWJJP
+
+
+DB Detail:
+
+Server : 10.169.0.158
+DBname : nefuture_dbnefut
+DBUser: nefuture_dbnefut
+DBpass: U9ULRXLT7EG
+
+Link: http://www.nefuturesutc.co.uk/
+
+
+WP Details:
+User: wpfuture
+Pass: f*pBAN%DweDOmYAqcm
+
+phpmyadmin :- https://phpmyadmin.gridhost.co.uk/

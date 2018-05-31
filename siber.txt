@@ -1,0 +1,15 @@
+FTP Details
+Server: sibergen.com
+User: sibergenftpuser@sibergen.com
+Pass: i#y$wy$UEtnK^14kf@
+
+DB Details:
+Server: localhost
+DB Name: siberg5_siberwp
+DB User: siberg5_siberwp
+Pass: m)13A9c*b]K7(r2nKd
+phpmyadmin: http://sibergen.com/phpmyadmin
+
+Link: http://sibergen.com/wp-login.php
+User: siberadmingenuser
+Pass: slK()99)4%$@67HBGf%6Y

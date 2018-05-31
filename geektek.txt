@@ -1,0 +1,23 @@
+FTP Detail:
+Server: geektek.com
+Username: geekftpuser@geektek.com
+Password: GDF@614@hgd(h!)
+
+DB Detail:
+Server: localhost
+DBName: geektek_geekdb
+DBUsername: geektek_geekdb
+Password: UDj#FD(!21)jb(jh!
+phpMyAdmin: http://geektek.com/phpMyAdmin
+
+WP Detail:
+Link: http://geektek.com/wp-login.php
+username: admin
+New Pass : zo2K^okZL&$nkABL
+
+
+http://awesomescreenshot.com/0465qs6x84(blog)
+http://awesomescreenshot.com/0605qs7s91(contact form)
+
+
+

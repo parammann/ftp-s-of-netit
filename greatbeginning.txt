@@ -1,0 +1,9 @@
+Host: ftp.ipower.com
+
+UN: jimdnewton1
+
+PW: Chayes777!
+
+Directory: public_html/
+
+greatbeginningslc.com-redirect
